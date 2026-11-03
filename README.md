@@ -13,3 +13,11 @@ Requires Python 3.10+ and a GitHub token that can access code search:
 ```bash
 python -m pip install -r requirements.txt
 GH_SEARCH_TOKEN=your_token python scan_8tv.py
+
+
+直播源搜索引擎
+
+http://tonkiang.us
+
+
+http://www.foodieguide.com/iptvsearch/
