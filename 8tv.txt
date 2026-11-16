@@ -1,2 +1,3 @@
 movie,#genre#
 红番区,https://vip.dytt-film.com/20250312/12520_9d34d86d/index.m3u8
+上海ICS,https://go.tabbit.site/projects/NcnNTndqvd
