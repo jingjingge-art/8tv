@@ -1,6 +1,6 @@
 {
   "spider": "https://xiuxiu-pro-new.meitudata.com/posters/8ad28c3ad40145e2f9331fe3f8abddb2.jpg;md5;5302302a73a9e27cfaa65f3873b727ab",
-  "wallpaper": "https://动态壁纸.饭.eu.org/",
+  "wallpaper": "https://img.baidu.re/i/2026/11/gly1aw.jpg",
   "sites": [
 {"key":"AiDj","name":"❤️AI剧┃弹幕","type":3,"api":"csp_AiDjGuard","ext":{"type":"video","name":"短剧","danMu":false},"indexs":0,"quickSearch":1,"searchable":1,"changeable":0},
     {
