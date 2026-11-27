@@ -4,6 +4,10 @@ This repository scans public GitHub playlist files for 8TV entries, checks candi
 
 https://gh-proxy.org/https://raw.githubusercontent.com/jingjingge-art/8tv/refs/heads/main/kids.txt
 
+接口
+
+https://gh-proxy.org/https://raw.githubusercontent.com/jingjingge-art/8tv/refs/heads/main/tvbox%E5%84%BF%E7%AB%A5%E8%8B%B1%E8%AF%AD%E7%9B%B4%E6%92%AD%E6%8E%A5%E5%8F%A3.txt
+
 ## Automation
 
 GitHub Actions runs the scan every six hours. You can also start it manually from the Actions tab using **Scan 8TV playlist → Run workflow**.
