@@ -1,0 +1,229 @@
+{
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/8ad28c3ad40145e2f9331fe3f8abddb2.jpg;md5;5302302a73a9e27cfaa65f3873b727ab",
+  "wallpaper": "https://动态壁纸.饭.eu.org/",
+  "sites": [
+    {
+      "key": "点我切源",
+      "name": "片单┃ <修复AI剧>",
+      "type": 3,
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    }
+  ],
+  "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
+  "hosts": [
+    "fiizvfck.top=cmcc.vvvv.ee",
+    "sub.ottiptv.cc=cmcc.vvvv.ee"
+  ],
+  "lives": [
+    {
+      "name": "⭐少儿精选直播源 (kids.txt)",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/jingjingge-art/8tv/refs/heads/main/kids.txt",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "⭐精选美英官方少儿台(直连)",
+      "type": 1,
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "channels": [
+        {
+          "name": "PBS Kids (美国公共广播少儿台)",
+          "urls": [
+            "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
+          ]
+        },
+        {
+          "name": "PBS Kids Hawaii (夏威夷时区源)",
+          "urls": [
+            "https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8"
+          ]
+        },
+        {
+          "name": "Kids TV US (美国综合儿童频道)",
+          "urls": [
+            "https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "Pocket.watch Kids TV (少儿趣味百科与动画)",
+          "urls": [
+            "https://pocketwatch-redbox.amagi.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "3ABN Kids Network (儿童教育与故事)",
+          "urls": [
+            "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "CBeebies UK (BBC低龄启蒙与动画)",
+          "urls": [
+            "https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8"
+          ]
+        },
+        {
+          "name": "Baby Shark TV (碰碰狐英文儿歌与动画)",
+          "urls": [
+            "https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "BabyFirst TV (英语早教与认知动画)",
+          "urls": [
+            "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "全球少儿频道库 (Kids)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/categories/kids.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "全球动画频道库 (Animation)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/categories/animation.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "纯英语频道总库 (English)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/languages/eng.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "全球免费官方电视台精选 (Free-TV)",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/Free-TV/IPTV@master/playlist.m3u8",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "英文少儿电影与动画剧场 (KidsFlix/KidsMovie)",
+      "type": 1,
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "channels": [
+        {
+          "name": "KidsFlix (全天候英文少儿动画大电影)",
+          "urls": [
+            "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kidsflix/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "Kids Movie / Family Movies (少儿与合家欢电影台)",
+          "urls": [
+            "https://allumination-family-1-us.plex.wurl.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "Kartoon Channel! (卡通路频道 - 经典欧美动画)",
+          "urls": [
+            "https://amg01076-lightningintern-kartoonchannel-distro.amagi.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "Kidoodle.TV (少儿动画与益智探索)",
+          "urls": [
+            "https://apermedia-kidoodletv-1-us.plex.wurl.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "Moonbug Kids (热门英文儿童IP合集)",
+          "urls": [
+            "https://moonbug-rakuten.amagi.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "WildBrain TV (加拿大知名少儿动画剧场)",
+          "urls": [
+            "https://dhx-wildbrain-1-us.plex.wurl.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "SuperToons TV (超级卡通 - 高分经典动画)",
+          "urls": [
+            "https://kedoo-supertoonstv-1-us.plex.wurl.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "LEGO Channel (乐高动画大冒险)",
+          "urls": [
+            "https://lego-channel-samsung.amagi.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "ZooMoo (动物世界少儿自然科普台)",
+          "urls": [
+            "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "全球合家欢频道库 (Family)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/categories/family.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "美国官方频道库 (US)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "英国官方频道库 (UK)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "加拿大官方频道库 (CA)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "澳大利亚官方频道库 (AU)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/au.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "新西兰官方频道库 (NZ)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/nz.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    }
+  ]
+}
