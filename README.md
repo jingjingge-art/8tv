@@ -2,6 +2,8 @@
 
 This repository scans public GitHub playlist files for 8TV entries, checks candidate stream URLs, and writes responsive results to `8tv.txt`.
 
+https://gh-proxy.org/https://raw.githubusercontent.com/jingjingge-art/8tv/refs/heads/main/kids.txt
+
 ## Automation
 
 GitHub Actions runs the scan every six hours. You can also start it manually from the Actions tab using **Scan 8TV playlist → Run workflow**.
