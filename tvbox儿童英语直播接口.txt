@@ -20,6 +20,14 @@
     "sub.ottiptv.cc=cmcc.vvvv.ee"
   ],
   "lives": [
+{
+      "name": "佩奇频道",
+      "type": 0,
+      "url": "https://pan.szfx.top/text.php?hash=790b44d30c849e7e9ef70cffe81a29a9",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
     {
       "name": "⭐少儿精选直播源 (kids.txt)",
       "type": 0,
