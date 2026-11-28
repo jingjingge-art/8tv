@@ -1,0 +1,284 @@
+{
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/8ad28c3ad40145e2f9331fe3f8abddb2.jpg;md5;5302302a73a9e27cfaa65f3873b727ab",
+  "wallpaper": "https://img.baidu.re/i/2026/11/gly1aw.jpg",
+  "sites": [
+{"key":"AiDj","name":"❤️AI剧┃弹幕","type":3,"api":"csp_AiDjGuard","ext":{"type":"video","name":"短剧","danMu":false},"indexs":0,"quickSearch":1,"searchable":1,"changeable":0},
+    {
+      "key": "点我切源",
+      "name": "片单┃ <豆瓣>",
+      "type": 3,
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+{"key":"seed","name":"💡聚剧┃四盘","type":3,"api":"csp_SeedhubGuard","ext":"5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable":1,"quickSearch":1,"changeable":0, "indexs":0},
+{"key":"粤迷","name":"🦊粤迷┃港剧","type":3,"api":"csp_MaiDuiDuiGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"韩剧","name":"🐱韩迷┃外剧","type":3,"api":"csp_HanquanGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"光影","name":"🌞光影┃不卡","type":3,"api":"csp_T4Guard","searchable":1,"quickSearch":1,"changeable":0,"ext":"rfOIzPkSUkANv6AT2prC8aD6+WjK3tPozSUvL572CklJZV9L6ysy+LVxZfJR1dM5o3ePLoIPjnos/W4yTqlgUtqU/aeuWHa5fKzelf2sVzGilRkvdFcCpBwt4dB24J1GEdZi4DsMHkz6Ge+zjX/4lHrfVcSOjIFNIHP1TGLmwiCpZd34DfAtn2npr5u6BiYW36CCIID+khfgtA1QQQjazWJBV3hjZT57WbmPs4WoqoDf3MGfd+4AaVzVjPnSLAOD2edXSp3gLgdURjXO5rPlrsRhysXbhlAyQA15/MbFhVwQeGBiKp/Om1PLYiw01LYiplgqx1mxcnCu3SSrfadD2cKgPdJhQi6Ns55eNIeZoiEWrnfgxcAnnhd5nWDZ67WBbRK1YBs1pV05B3ICXao4njVgOB+AbpZJjzs+4PgYLocnQhq0w5RxRFDq1REMpMgSdgE8wYzUtzPO0HcKhCUb01/DQiU9Iy/kZor8+cABH603aMYHOqNXQFJ4R4LFZ8IbYaWLmqhvUm8iQV0ZLHj4NqF+uQnjy89nsQQT2q8FzQG9bod3dmQXCuRaHYCS9ghnVTWCd8TE2CIhY02jyXbE3APr+YN9l/ey1FgdYR7G4c9ZlkHOpEtorwSksB/tkX1+AA=="},
+//{"key":"原创","name":"👒原创┃不卡","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCzGuard","timeout":10,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"立播","name":"🌟立播┃不卡","type": 3,"api": "csp_LibvioGuard","timeout":10,"searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","siteUrl":"https://www.libvio.pw/"}},
+{"key":"瓜子","name":"👀瓜子┃不卡","type":3,"api":"csp_AppgzGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"比特","name":"🍄比特┃不卡","type":3,"api":"csp_BttwooGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
+//{"key":"海绵","name":"🐬海绵┃不卡","type":3,"api":"csp_HmysGuard","timeout":10,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"花生","name":"🥜花生┃不卡","type":3,"api":"csp_HuashuGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_JpysGuard","timeout":10,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"奶酪","name":"🧀奶酪┃秒播","type":3,"api":"csp_T4Guard","searchable":1,"quickSearch":1,"changeable":0,"ext":"rfOIzPkSUkANv6AT2prC8en3+Trbx4jq3i8iepe3AAlFJlcJ8nEyo7U0Zv5Ly99uvDeRbsAQwngm4DhwCew4GZ2NpO2FWja5GbiLw/2+VyOxmwVkfRMWv4r7F0yFFcgHZdBu8XhZS17qCOz4hFXmThTNJJ6r6izqIDiy35MRVt1r5SFVFYMtnUTQrp+ZBiYW36CCI5fykR7RtA1QQQjazGJoVUFvZT57WbmPsbmEq4PL3sG/d+4AaXHujcfaLgOj2edXRYrRLyZgRDXu5rPlrch5yOPchlAyQA15/MbFhVwQeGBiKp/Ol0PSYQ0L1LYiplgqx0aqcFWB3SSrfadD1ta+PdJhQi6Ns55eNKyCrQIerEX3CWe/XK76nWvQ56ODrocvbicwZNeFBEManAuunz1sNQ2DrzHETbmz4uIhIKURTSi2DzPpheVx1xMUpM0KdwYvDStMdYpN338GiDAa0ljQjoKl4a1pZL7G+94WHpgTaMYHOYBZQWdjR4LFZ8IbYaWLmbViXGQ0Q1467upx9DPMuiXhyvxJcKCd25sXD7kQb7RxdFMuy0DUzXHYRuD9"},
+{"key":"剧迷","name":"🍊橘猫┃多线","type":3,"api":"csp_JumiTvGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTTGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
+{"key":"风云","name":"☁️风云┃多线","type":3,"api":"csp_FyGuard","ext":{"type":"video","name":"Fy"},"quickSearch":1,"searchable":1,"changeable":1},
+{"key":"荐片","name":"🥝荐片┃多线","type":3,"api":"csp_JPJGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":0},
+{"key":"奥特","name":"🏝奥特┃多线","type": 3,"api":"csp_AueteGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixVGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
+{"key":"AiDj","name":"❤️AI剧┃弹幕","type":3,"api":"csp_AiDjGuard","ext":{"type":"video","name":"短剧","danMu":false},"indexs":0,"quickSearch":1,"searchable":1,"changeable":0},
+{"key":"Dm84","name":"🚌巴士┃动漫","type":3,"api":"csp_Dm84Guard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
+
+{"key":"看球","name":"⚽八八┃看球","type":3,"api":"csp_KanqiuGuard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
+{"key":"多多","name":"🏀多多┃回放","type":3,"api":"csp_DoubaoGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
+{"key":"吃瓜","name":"🏐吃瓜┃看球","type":3,"api":"csp_LiveGzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}},
+{"key":"MTV","name":"🎶明星┃MV","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"}},
+{"key":"有声小说","name":"🎧有声┃小说","type":3,"api":"csp_YueTingGuard","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAidGuard","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
+{"key":"虎牙js","name":"🐯虎牙┃直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable": 1,"quickSearch": 0,"changeable":0},
+{"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable": 1,"quickSearch": 0,"changeable":0},
+
+{"key":"ZPan","name":"🎈盘搜┃四盘","type":3,"api":"csp_S_zpsGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":{"siteUrl":"http://107.173.211.148/"},"indexs":0,"style":{"type":"list"}},
+{"key":"JPan","name":"🦋易搜┃四盘","type":3,"api":"csp_S_zpsGuard","searchable":1,"quickSearch":0,"changeable":0,"ext":{"siteUrl":"https://so.252035.xyz/"},"indexs":0,"style":{"type":"list"}},
+{"key":"YpanSo","name":"🐌盘她┃夸父","type":3,"api":"csp_YpanSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
+{"key":"BpanSo","name":"🐞盘他┃嘟嘟","type":3,"api":"csp_BpanSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
+{"key":"抠搜","name":"🌶️抠抠┃搜搜","type":3,"api":"csp_KkSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
+{"key":"UC","name":"🌈优汐┃搜搜","type":3,"api":"csp_UuSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
+{"key":"Bili","name":"🅱哔哔合集┃弹幕","type": 3,"api": "csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"}},
+{"key":"Biliych","name":"🅱哔哔演唱会┃弹幕","type": 3,"api": "csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"}},
+{"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"}},
+{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"}},
+{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"}},
+{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"}},
+{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_PushGuard","searchable":0,"quickSearch":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}}
+  ],
+  "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
+  "hosts": [
+    "fiizvfck.top=cmcc.vvvv.ee",
+    "sub.ottiptv.cc=cmcc.vvvv.ee"
+  ],
+  "lives": [
+{
+      "name": "佩奇20261128星期六",
+      "type": 0,
+      "url": "https://pan.szfx.top/text.php?hash=790b44d30c849e7e9ef70cffe81a29a9",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "⭐少儿精选直播源 (kids.txt)",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/jingjingge-art/8tv/refs/heads/main/kids.txt",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "⭐精选美英官方少儿台(直连)",
+      "type": 1,
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "channels": [
+        {
+          "name": "PBS Kids (美国公共广播少儿台)",
+          "urls": [
+            "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
+          ]
+        },
+        {
+          "name": "PBS Kids Hawaii (夏威夷时区源)",
+          "urls": [
+            "https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8"
+          ]
+        },
+        {
+          "name": "Kids TV US (美国综合儿童频道)",
+          "urls": [
+            "https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "Pocket.watch Kids TV (少儿趣味百科与动画)",
+          "urls": [
+            "https://pocketwatch-redbox.amagi.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "3ABN Kids Network (儿童教育与故事)",
+          "urls": [
+            "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "CBeebies UK (BBC低龄启蒙与动画)",
+          "urls": [
+            "https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8"
+          ]
+        },
+        {
+          "name": "Baby Shark TV (碰碰狐英文儿歌与动画)",
+          "urls": [
+            "https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "BabyFirst TV (英语早教与认知动画)",
+          "urls": [
+            "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "全球少儿频道库 (Kids)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/categories/kids.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "全球动画频道库 (Animation)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/categories/animation.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "纯英语频道总库 (English)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/languages/eng.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "全球免费官方电视台精选 (Free-TV)",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/Free-TV/IPTV@master/playlist.m3u8",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "英文少儿电影与动画剧场 (KidsFlix/KidsMovie)",
+      "type": 1,
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "channels": [
+        {
+          "name": "KidsFlix (全天候英文少儿动画大电影)",
+          "urls": [
+            "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kidsflix/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "Kids Movie / Family Movies (少儿与合家欢电影台)",
+          "urls": [
+            "https://allumination-family-1-us.plex.wurl.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "Kartoon Channel! (卡通路频道 - 经典欧美动画)",
+          "urls": [
+            "https://amg01076-lightningintern-kartoonchannel-distro.amagi.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "Kidoodle.TV (少儿动画与益智探索)",
+          "urls": [
+            "https://apermedia-kidoodletv-1-us.plex.wurl.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "Moonbug Kids (热门英文儿童IP合集)",
+          "urls": [
+            "https://moonbug-rakuten.amagi.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "WildBrain TV (加拿大知名少儿动画剧场)",
+          "urls": [
+            "https://dhx-wildbrain-1-us.plex.wurl.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "SuperToons TV (超级卡通 - 高分经典动画)",
+          "urls": [
+            "https://kedoo-supertoonstv-1-us.plex.wurl.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "LEGO Channel (乐高动画大冒险)",
+          "urls": [
+            "https://lego-channel-samsung.amagi.tv/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "ZooMoo (动物世界少儿自然科普台)",
+          "urls": [
+            "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "全球合家欢频道库 (Family)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/categories/family.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "美国官方频道库 (US)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "英国官方频道库 (UK)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "加拿大官方频道库 (CA)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "澳大利亚官方频道库 (AU)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/au.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "新西兰官方频道库 (NZ)",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/nz.m3u",
+      "epg": "https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    }
+  ]
+}
