@@ -1,0 +1,77 @@
+name: 定时保存TVBox配置文件
+run-name: 🔄 定时更新佩奇频道配置
+on:
+  schedule:
+    # 每12小时执行一次 UTC 00:00 和 12:00 = 北京时间 08:00 和 20:00
+    - cron: '0 */12 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  save-and-modify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 拉取仓库代码
+        uses: actions/checkout@v4
+
+      - name: 📅 生成日期变量
+        id: date
+        run: |
+          # 获取北京时间日期和星期
+          TZ='Asia/Shanghai'
+          DATE=$(date +%Y%m%d)
+          WEEKDAY=$(date +%A)
+          # 英文星期转中文
+          case $WEEKDAY in
+            "Monday") WEEKDAY_CN="星期一" ;;
+            "Tuesday") WEEKDAY_CN="星期二" ;;
+            "Wednesday") WEEKDAY_CN="星期三" ;;
+            "Thursday") WEEKDAY_CN="星期四" ;;
+            "Friday") WEEKDAY_CN="星期五" ;;
+            "Saturday") WEEKDAY_CN="星期六" ;;
+            "Sunday") WEEKDAY_CN="星期日" ;;
+          esac
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+          echo "weekday=$WEEKDAY_CN" >> $GITHUB_OUTPUT
+          echo "full_name=佩奇${DATE}${WEEKDAY_CN}" >> $GITHUB_OUTPUT
+          echo "filename=tvbox/tvbox_${DATE}.txt" >> $GITHUB_OUTPUT
+
+      - name: 🌐 下载源文件
+        id: download
+        run: |
+          mkdir -p tvbox
+          SOURCE_URL="https://raw.githubusercontent.com/jingjingge-art/8tv/main/tvbox%E5%84%BF%E7%AB%A5%E8%8B%B1%E8%AF%AD%E7%9B%B4%E6%92%AD%E6%8E%A5%E5%8F%A3.txt"
+          curl -sL "$SOURCE_URL" -o source.txt
+          echo "✅ 文件下载成功"
+
+      - name: ✏️ 修改佩奇频道名称
+        run: |
+          DATE="${{ steps.date.outputs.date }}"
+          WEEKDAY="${{ steps.date.outputs.weekday }}"
+          NEW_NAME="佩奇${DATE}${WEEKDAY}"
+          OUTPUT_FILE="${{ steps.date.outputs.filename }}"
+          
+          # 读取原文件内容，替换"佩奇频道"为"佩奇日期星期"
+          sed "s/佩奇频道/${NEW_NAME}/g" source.txt > "$OUTPUT_FILE"
+          
+          echo "✅ 已修改：佩奇频道 → ${NEW_NAME}"
+          echo "📄 保存为：${OUTPUT_FILE}"
+          
+          # 显示结果预览
+          echo "--- 文件预览（前10行）---"
+          head -10 "$OUTPUT_FILE"
+          echo "------------------------"
+
+      - name: 📤 提交并推送到仓库
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add "${{ steps.date.outputs.filename }}"
+          
+          if git diff --staged --quiet; then
+            echo "ℹ️ 没有新变更，无需提交"
+          else
+            git commit -m "🤖 更新配置: ${{ steps.date.outputs.date }} ${{ steps.date.outputs.weekday }}"
+            git push
+            echo "✅ 已推送到仓库"
+          fi
